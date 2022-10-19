@@ -20,6 +20,7 @@ import java.util.List;
 
 /**
  * Scrap bean for use in tests.
+ * 用于测试的bean
  *
  * @author Colin Sampaleanu
  */
